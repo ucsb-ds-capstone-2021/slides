@@ -18,7 +18,7 @@ Converted slides are also available as web pages through [Github pages](https://
 - A push on `main` branch rebuilds all slides (`*.md`) at root level
 - Actions are defined in `.github/workflows/`
 - Branch `gh-pages` is created automatically
-- Outputs are in `html` and `pdf` directories
+- Converted slides are in `output` directory
 
 ## Example
 
@@ -26,15 +26,14 @@ Converted slides of this `README.md` file is in `gh-pages` branch:
 
 ```
 .
-├── html
+├── output
 │   └── README.html
-├── pdf
 │   └── README.pdf
 └── README.md
 ```
 
-- [`https://ucsb-ds-capstone-2021.github.io/slides/html/README.html`](https://ucsb-ds-capstone-2021.github.io/slides/html/README.html)
-- [`https://ucsb-ds-capstone-2021.github.io/slides/pdf/README.pdf`](https://ucsb-ds-capstone-2021.github.io/slides/pdf/README.pdf)
+- [`https://ucsb-ds-capstone-2021.github.io/slides/output/README.html`](https://ucsb-ds-capstone-2021.github.io/slides/output/README.html)
+- [`https://ucsb-ds-capstone-2021.github.io/slides/output/README.pdf`](https://ucsb-ds-capstone-2021.github.io/slides/output/README.pdf)
 
 ## Working on slides locally
 

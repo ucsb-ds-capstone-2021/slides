@@ -1,7 +1,8 @@
 <!--
 theme: gaia
-headingDivider: 2 
 paginate: true
+headingDivider: 2 
+backgroundColor: white
 -->
 
 <!-- _class: lead -->
