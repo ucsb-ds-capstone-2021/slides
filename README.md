@@ -42,7 +42,7 @@ Easiest way is to use [marp-cli docker image](https://hub.docker.com/r/marpteam/
 
 - Clone this repository and run `marp-cli` in server mode:  
     ```bash
-    git clone https://github.com/ucsb-ds-capstone-2020/slides.git
+    git clone https://github.com/ucsb-ds-capstone-2021/slides.git
     cd slides
     docker run --rm --init \
         -v $PWD:/home/marp/app -e LANG=$LANG \
