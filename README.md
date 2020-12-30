@@ -22,18 +22,21 @@ Converted slides are also available as web pages through [Github pages](https://
 
 ## Example
 
-Converted slides of this `README.md` file is in `gh-pages` branch:
+Converted slides from `getting-started.md` are in `gh-pages` branch:
 
 ```
 .
 ├── output
-│   └── README.html
-│   └── README.pdf
-└── README.md
+│   └── getting-started.html
+│   └── getting-started.pdf
+└── getting-started.md
 ```
 
-- [`https://ucsb-ds-capstone-2021.github.io/slides/output/README.html`](https://ucsb-ds-capstone-2021.github.io/slides/output/README.html)
-- [`https://ucsb-ds-capstone-2021.github.io/slides/output/README.pdf`](https://ucsb-ds-capstone-2021.github.io/slides/output/README.pdf)
+URLs for converted slides are
+```
+https://ucsb-ds-capstone-2021.github.io/slides/output/getting-started.html
+https://ucsb-ds-capstone-2021.github.io/slides/output/getting-started.pdf
+```
 
 ## Working on slides locally
 
