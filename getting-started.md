@@ -64,13 +64,12 @@ Chapters 1 - 2
 
 ## Team work and reproducibility
 
+* [Good enough practices](https://doi.org/10.1371/journal.pcbi.1005510) :white_check_mark::calendar::notebook:
+    Data management, programming, collaborating, organizing projects, tracking work, and writing manuscripts
+* [Reproducibility and collaboration](https://doi.org/10.1038/s41559-017-0160) :facepunch::tada::clap: 
+    Case study in environmental science. Documentation, version control, team collaboration, and communication
 * [Collaborative research teams](https://doi.org/10.1890/130001) :dog::mouse::rabbit::frog:  
     Diversity and performance of research teams. Importance of interpersonal skills and team functioning 
-* [Tips for collaborating on DS project](https://doi.org/10.1371/journal.pcbi.1005510) :white_check_mark::calendar::notebook:
-    Data management, programming, collaborating, organizing projects, tracking work, and writing manuscripts
-* [Reproducibility practices](https://doi.org/10.1038/s41559-017-0160) :facepunch::tada::clap: 
-    Case study in environmental science. Documentation, version control, team collaboration, and communication
-
 
 ## Topics in ethics and privacy
 
