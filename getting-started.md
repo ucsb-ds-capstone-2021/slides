@@ -91,3 +91,30 @@ Chapters 1 - 2
 - Project management board: [Overview](https://youtu.be/nI5VdsVl0FM), [Demo](https://youtu.be/ff5cBkPg-bQ?t=40), [In-depth](https://youtube.com/playlist?list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu)
 - [Tasks, Labels & Milestone](https://youtu.be/ukYSRu4k0gs)
 - [Discussions](https://youtu.be/BnnevOZx7g0)
+
+## Grading 1
+
+* **Meetings/Participation (individual)**: 20%  
+    - Attendance in group meetings and lecture time sessions
+* **Assigned Reading**: 20%
+    - Must make at least one comment (question, answer, thought etc) on assigned readings
+
+## Grading 2
+
+* **Deliverables (group)**:
+    (More details to be added)
+    * **Progress updates**: 30%  
+        3 progress updates in this Jupyter book
+    * **End of Quarter Project Summary**: 20%  
+        Report and video presentation
+* **Sponsor and mentor evaluations (individual)**: 10%  
+    Based on your engagement and contribution to the project
+
+## First Week
+
+* Create [GitHub](https://www.github.com) account ([Student Pack](https://education.github.com/pack))
+* Notify us through [Google form](https://forms.gle/LZbcZUis9jkaQeVn6)
+* Join [Gitter Community](https://gitter.im/ucsb-ds-capstone-2021)
+* Introduce yourself to your team on Gitter
+* Coordinate and send weekly meeting Doodle poll to [your team](https://ucsb-ds-capstone-2021.github.io/class/contacts.html)
+* Read Think Like a Data Scientist, Chapters 1-2
