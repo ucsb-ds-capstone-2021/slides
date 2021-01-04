@@ -110,11 +110,19 @@ Chapters 1 - 2
 * **Sponsor and mentor evaluations (individual)**: 10%  
     Based on your engagement and contribution to the project
 
-## First Week
+## First Week - Immediately
 
-* Create [GitHub](https://www.github.com) account ([Student Pack](https://education.github.com/pack))
-* Notify us through [Google form](https://forms.gle/LZbcZUis9jkaQeVn6)
-* Join [Gitter Community](https://gitter.im/ucsb-ds-capstone-2021)
-* Introduce yourself to your team on Gitter
-* Coordinate and send weekly meeting Doodle poll to [your team](https://ucsb-ds-capstone-2021.github.io/class/contacts.html)
-* Read Think Like a Data Scientist, Chapters 1-2
+* Send weekly meeting Doodle poll to [your team](https://ucsb-ds-capstone-2021.github.io/class/contacts.html)
+* Create [GitHub](https://education.github.com/pack) account and [notify us via Google form](https://forms.gle/LZbcZUis9jkaQeVn6)
+* Join [Gitter Community](https://gitter.im/ucsb-ds-capstone-2021/community)
+
+**After private repository and Gitter room access**:
+* Introduce yourself to your team
+* Create issue for Doodle poll, assign it, then close it when complete
+
+## Before Next Week
+
+**[Reading Assignment](https://ucsb-ds-capstone-2021.github.io/class/syllabus_readings.html#)** (before January 13, 2020):
+Add at least one comment, question, or reply to [Google Drive files](https://ucsb-ds-capstone-2021.github.io/class/syllabus_readings.html#)
+- _Think Like a Data Scientist_, Chapter 1  
+- _Good enough practices in scientific computing_ 
